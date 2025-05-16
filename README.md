@@ -7,19 +7,11 @@
 #### **<div align="center">A passionate Fullstack developer from Cambodia 🇰🇭</div>**  
   
 
-- 📊 I’m currently working on [Mood Tracker](https://mood-tracker-v1.vercel.app/)  
-  
-
-- 🙇 I’m currently learning DevOps Engineering  
-  
-
-- 💬  Ask me about React, Next.js or anything related to MERN stack  
-  
-
--  📫 Reach me at  sopheak0891@gmail.com  
-  
-
-- ⚡ Fun Fact : Did you know that in Japanese, "Yuu" (幽) can mean "ghostly" or "mysterious"? 👻✨ So if someone says they can’t find you, just whisper… "That’s the Yuu effect." 🌫️💨👀  
+📊 I’m currently working on [Mood Tracker](https://mood-tracker-v1.vercel.app/)  
+🙇 I’m currently learning DevOps Engineering  
+💬 Ask me about React, Next.js or anything related to MERN stack  
+📫 Reach me at  sopheak0891@gmail.com  
+⚡ Fun Fact : Did you know that in Japanese, "Yuu" (幽) can mean "ghostly" or "mysterious"? 👻✨ So if someone says they can’t find you, just whisper… "That’s the Yuu effect." 🌫️💨👀  
   
 
 <br/>  
