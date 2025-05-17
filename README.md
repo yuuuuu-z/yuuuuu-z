@@ -4,7 +4,7 @@
 # **<div align="center">Hi 👋, I'm Sopheaktra</div>**
   
 
-#### **<div align="center" >A passionate Fullstack developer from Cambodia 🇰🇭</div>**  
+#### **<div align="center" >A passionate Fullstack Developer from Cambodia 🇰🇭</div>**  
   
 
 
