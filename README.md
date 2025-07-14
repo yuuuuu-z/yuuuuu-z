@@ -12,7 +12,7 @@
 🙇 I’m currently learning DevOps Engineering  
 💬 Ask me about React, Next.js or anything related to MERN stack  
 📫 Reach me at  sopheak0891@gmail.com  
-⚡ Fun Fact : Vue better than React? Go on, prove it to me 😏🔥 
+⚡ Fun Fact : Vue better than React? 😂 That's cute. Show me a Fortune 500 company using it 😏🔥 
   
 
 <br/>  
