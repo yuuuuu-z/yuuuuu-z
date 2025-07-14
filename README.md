@@ -12,7 +12,7 @@
 🙇 I’m currently learning DevOps Engineering  
 💬 Ask me about React, Next.js or anything related to MERN stack  
 📫 Reach me at  sopheak0891@gmail.com  
-⚡ Fun Fact : Did you know that in Japanese, "Yuu" (幽) can mean "ghostly" or "mysterious"? 👻✨ So if someone says they can’t find you, just whisper… "That’s the Yuu effect." 🌫️💨👀  
+⚡ Fun Fact : Vue better than React? Go on, prove it to me 😏🔥 
   
 
 <br/>  
